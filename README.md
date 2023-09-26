@@ -15,7 +15,7 @@ You need following software and versions to working with related dashboards/quer
 
 
 
-## More details about dashboards & queries
+## More details about scripts
 
 You can visit my blog for more detailed information.
 
