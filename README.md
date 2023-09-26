@@ -23,7 +23,7 @@ You need following software and versions to working with related dashboards/quer
 
 ## More details about scripts
 
-You can visit my blog for more detailed information.
+You can visit my blog for [VMware vCloud Usage Meter – Product Credential Monitoring](https://vmbro.com/vmware-vcloud-usage-meter-product-credential-monitoring/) and more detailed information.
 
 
 
